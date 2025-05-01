@@ -1,0 +1,12 @@
+
+.header-logo span {
+    transition: all .2s ease-in-out;
+}
+
+.header-logo:hover.header-logo span:first-of-type{
+    background: #dc2626;
+}
+.header-logo:hover.header-logo span:last-of-type{
+    background: #00DC89;
+}
+

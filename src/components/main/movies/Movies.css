@@ -1,0 +1,32 @@
+@media (max-width: 1024px) {
+    .swiper-container {
+        max-width: 98% !important;
+    }
+    .content-container{
+     max-width: 98% !important;
+    }
+}
+@media (max-width: 768px) {
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 440px) {
+    
+}
+
+
+
+@media (max-width: 768px) {
+   
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 440px) {
+    
+}

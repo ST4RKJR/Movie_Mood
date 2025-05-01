@@ -1,0 +1,39 @@
+body {
+    background-color: #081118;
+    color: #FFFFFF;
+}
+
+/* Add custom styles */
+.container {
+    background-color: #0C1119;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.header {
+    background-color: #0C1119;
+    border-bottom: 2px solid #00DC89;
+}
+
+.button {
+    background-color: #00DC89;
+    color: #FFFFFF;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    background-color: #FFFFFF;
+    color: #0C1119;
+    transform: scale(1.05);
+}
+
+.card {
+    background-color: #0C1119;
+    border: 1px solid #00DC89;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 220, 137, 0.2);
+}
