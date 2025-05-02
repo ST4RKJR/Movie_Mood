@@ -4,15 +4,15 @@
 
 ## 🚀 Features
 
-- 🎭 Mood-based movie recommendations
-- 🔍 Search functionality for specific titles or genres
+- 🎭 Genre-based movie recommendations
+- 🔍 Suggests Movies according to your desired genres
 - 🎨 Clean and responsive UI
-- 🧪 Uses mock data for quick prototyping
 
 ## 🛠️ Tech Stack
-
+- HTML and CSS
+- Javascript
 - React.js
-- (Optionally: Tailwind CSS / Next.js / Axios / etc.)
+- (Optionally: Tailwind CSS / Next.js)
 
 ## 📦 Installation
 
